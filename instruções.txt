@@ -1,0 +1,13 @@
+instalar dependencias: body-parser e express
+
+npm install body-parser
+npm install express
+
+executar a aplicacao: 
+
+node app.js (porta 8888)
+
+localhost:8888
+
+executar as requisições post pelo postman
+link postman: https://www.postman.com/navigation-specialist-47000913/workspace/entregavel-3-helder/collection/24117662-34f81336-54ab-4d3f-b3e8-f021f805e223?ctx=documentation
